@@ -10,7 +10,7 @@
 
     .row.mb-5
       .col-lg-6
-        .bg-color-3.mb-5(data-aos="fade-up")
+        .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
             
             .col-lg
@@ -25,7 +25,7 @@
 
 
       .col-lg-6
-        .tarjeta.bg-color-4.p-4.mb-4(data-aos="fade-up")
+        .tarjeta.bg-color-12.p-4.mb-4(data-aos="fade-up")
           p.mb-0 Si bien dentro de los activos como instrumentos financieros se identifican, entre otros, el efectivo y equivalentes al efectivo y las inversiones; son las cuentas comerciales por cobrar a clientes generadas a partir de la operación de venta de inventarios.
 
         .row.align-items-center
@@ -41,7 +41,7 @@
 
     .row.mb-5
       .col-lg-7
-        .tarjeta.bg-color-2.p-4.mb-4
+        .tarjeta.bg-color-3.p-4.mb-4
           .row.align-items-center
             .col-lg-auto
               img(src="@/assets/curso/tema4/3.svg", style="max-width: 90px").mx-auto
@@ -60,7 +60,7 @@
     .row.mb-5.justify-content-center.mb-4
       .col-lg-10
 
-        .bg-color-8.p-4
+        .bg-color-4.p-4
           .row.align-items-center
             .col-lg-4.d-none.d-lg-block
               figure
@@ -107,7 +107,7 @@
 
     .row.mb-5
       .col-lg-8
-        .bg-color-3.p-4.mb-4
+        .bg-color-13.p-4.mb-4
           p.mb-0 Por diferentes razones generales o particulares los clientes pueden incurrir en el no pago de los compromisos adquiridos en las operaciones comerciales de venta, lo que puede llevar a un deterioro de la cartera.
 
 
@@ -136,7 +136,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10
 
-        .bg-color-2.p-4
+        .bg-color-4.p-4
           .row.align-items-center
             .col-lg-4.d-none.d-lg-block
               figure
@@ -177,7 +177,7 @@
           .col-lg-7
             p.mb-4 De acuerdo con lo establecido por la NIIF 9 (2009), una entidad reconocerá una corrección de valor por pérdidas crediticias esperadas sobre un activo financiero a los que se les aplica los requerimientos de deterioro de valor.
 
-            .bg-color-8.p-4.mb-4
+            .bg-color-3.p-4.mb-4
               .row.align-items-center
                 .col-lg-auto
                   img(src="@/assets/curso/tema4/11.svg", style="max-width: 90px").mx-auto
@@ -217,7 +217,7 @@
         .row.justify-content-center.mb-5
           .col-lg-11
 
-            .bg-color-8
+            .bg-color-4
               .row.align-items-center
 
                 .col-lg
@@ -274,7 +274,7 @@
           .col-lg-8
             p.mb-4 La empresa debe hacer un seguimiento permanente a sus deudores y evidenciar si estos presentan algunas de las dificultades económicas mencionadas, que les impidan cumplir con sus obligaciones adquiridas y concluir si es susceptible de entrar en un impago.
 
-            .bg-color-2.p-4.mb-4
+            .bg-color-3.p-4.mb-4
               .row.align-items-center
                 .col-lg-auto
                   img(src="@/assets/curso/tema4/16.svg", style="max-width: 90px").mx-auto
@@ -366,7 +366,7 @@
                 figure
                   img(src='@/assets/curso/tema4/18.png', alt='', style="max-width: 295px").mx-auto.mb-4
 
-    .bg-full-width.bg-fondo-7
+    .bg-full-width.bg-fondo-6
       .px-4.px-md-5
 
         p.mb-5 La medición se calcula así:

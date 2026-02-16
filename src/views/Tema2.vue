@@ -8,7 +8,7 @@
       h1 Instrumentos financieros – Cuentas por pagar
 
 
-    .tarjeta.bg-color-2.p-4.mb-5
+    .tarjeta.bg-color-3.p-4.mb-5
       .row.align-items-center
         .col-lg-auto
           img(src="@/assets/curso/tema2/1.svg", style="max-width: 90px").mx-auto
@@ -39,7 +39,7 @@
           .col-lg
             p.mb-0 La NIC 8 (2018), determina que las políticas contables son los principios, bases, acuerdos, reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de sus estados financieros.
 
-        .tarjeta.bg-color-3.p-4(data-aos="fade-left")
+        .tarjeta.bg-color-2.p-4(data-aos="fade-left")
           p.mb-0 Un cambio en una estimación contable es un ajuste en el importe en libros de un activo o de un pasivo, o en el importe del consumo periódico de un activo, que se produce tras la evaluación de la situación actual del elemento, así como de los beneficios futuros esperados y de las obligaciones asociadas con los activos y pasivos correspondientes.
     
 
@@ -47,7 +47,7 @@
 
     div.row.justify-content-center.align-items-stretch.mb-5
       .col-lg-4.mb-4(data-aos="zoom-in-up")
-        .tarjeta.bg-color-1.px-4.py-5.h-100
+        .tarjeta.bg-color-3.px-4.py-5.h-100
           img.mx-auto.d-block.mb-4(
             src="@/assets/curso/tema2/5.svg"
             alt=""
@@ -56,7 +56,7 @@
           p.mb-0.text-center La aplicación de la nueva política contable a las transacciones, otros sucesos y condiciones ocurridos tras la fecha en que se cambió la política.
     
       .col-lg-4.mb-4(data-aos="zoom-in-up")
-        .tarjeta.bg-color-1.px-4.py-5.h-100
+        .tarjeta.bg-color-3.px-4.py-5.h-100
           img.mx-auto.d-block.mb-4(
             src="@/assets/curso/tema2/6.svg"
             alt=""
@@ -74,7 +74,7 @@
 
     .row.mb-5.justify-content-center.mb-4
       .col-lg-10
-        .bg-color-4
+        .bg-color-2
           .row.align-items-center
             .col-lg-4.d-none.d-lg-block
               figure
@@ -101,7 +101,7 @@
       .col-lg-7
         p(data-aos="fade-left").mb-4 De acuerdo con la sección 11 de NIIF para Pymes (2009), dentro de la elección de la política contable se consideran, entre los instrumentos financieros de deuda, las cuentas de origen comercial, los pagarés, los préstamos por pagar y los préstamos de bancos o terceros.
     
-        .tarjeta.bg-color-1.p-4(data-aos="fade-left").mb-4
+        .tarjeta.bg-color-3.p-4(data-aos="fade-left").mb-4
           .row.align-items-start
             .col-lg-auto
               img(src="@/assets/curso/tema2/8.svg", style="max-width: 90px").mx-auto
@@ -113,7 +113,7 @@
           img(src="@/assets/curso/tema2/9.png", data-aos="zoom-in")
 
 
-    .bg-full-width.bg-fondo-4
+    .bg-full-width.bg-fondo-5
       .px-4.px-md-5
 
         Separador
@@ -143,7 +143,7 @@
               .col-lg-7
                 p(data-aos="fade-left").mb-4 La sección 11 de NIIF para Pymes (2009), presenta como ejemplo de pasivos financieros, los que se generan a partir de los bienes comprados a un proveedor a crédito a corto plazo, reconociendo una cuenta por pagar al importe debido al proveedor, que normalmente es el precio de la factura.
             
-                .bg-color-2.p-4(data-aos="fade-left")
+                .bg-color-10.p-4(data-aos="fade-left")
                   p.mb-0 La entidad solo reconocerá un pasivo financiero generado en una operación de compra con proveedores, cuando se hagan efectivas las condiciones contractuales del instrumento financiero.
             
               .col-lg-4

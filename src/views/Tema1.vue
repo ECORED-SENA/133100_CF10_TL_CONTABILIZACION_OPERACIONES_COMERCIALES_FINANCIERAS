@@ -156,7 +156,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bg-color-3
+        .bg-color-2
           .row.align-items-center
             .col-lg-4
               figure
@@ -550,7 +550,7 @@
                         td.text-center.text-right #[strong $150.000]
 
     
-    .bg-full-width.bg-fondo-3
+    .bg-full-width.bg-fondo-2
       .p-4.p-md-5
         p.mb-5 A continuación, se muestra el mismo ejercicio, pero ahora por el método de Primera en Entrar Primeras en Salir (PEPS), cuyo objetivo es mantener los costos más recientes.
 
@@ -907,7 +907,7 @@
             p.mb-0 Los costos estándares tendrán en cuenta los niveles normales de materias primas, suministros, mano de obra, eficiencia y utilización de la capacidad. Estos se revisarán de forma regular y, si es necesario, se cambiarán en función de las condiciones actuales.
 
 
-        .bg-color-4.mb-5(data-aos="fade-up")
+        .bg-color-2.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
             .col-xxl-auto.d-xl-none.d-xxl-block.col-12
               figure
@@ -1203,7 +1203,7 @@
 
     .row.mb-5.justify-content-center.mb-4
       .col-lg-11
-        .bg-color-2
+        .bg-color-3
           .row.align-items-center
             .col-lg-4.d-none.d-lg-block
               figure

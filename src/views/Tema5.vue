@@ -8,7 +8,7 @@
       h1 Gastos
 
 
-    .tarjeta.bg-color-2.p-4.mb-5
+    .tarjeta.bg-color-3.p-4.mb-5
       .row.align-items-center
         .col-lg-auto
           img(src="@/assets/curso/tema5/1.svg", style="max-width: 90px").mx-auto
@@ -517,7 +517,7 @@
     p.mb-5 Para la incorporación de las políticas contables de los gastos la entidad debe fundamentarse en la hipótesis del devengo. De conformidad con la sección 2 de NIIF para Pymes (2009), la base contable de acumulación o devengo establece que:
 
 
-    .bg-color-2.mb-4(data-aos="fade-up")
+    .bg-color-4.mb-4(data-aos="fade-up")
       .row.justify-content-center.align-items-center
         .col-lg-auto
           figure

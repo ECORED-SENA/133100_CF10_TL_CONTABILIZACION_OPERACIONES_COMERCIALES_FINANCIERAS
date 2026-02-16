@@ -8,7 +8,7 @@
       h1 Ingresos
 
 
-    .tarjeta.bg-color-2.p-4.mb-5
+    .tarjeta.bg-color-3.p-4.mb-5
       .row.align-items-center
         .col-lg-auto
           img(src="@/assets/curso/tema3/1.svg", style="max-width: 90px").mx-auto
@@ -53,7 +53,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bg-color-4.mb-5(data-aos="fade-up")
+        .bg-color-11.mb-5(data-aos="fade-up")
           .row.justify-content-center.align-items-center
             .col-lg-auto
               figure
@@ -98,7 +98,7 @@
           .col-lg
             p.mb-0 Se incluirá en los ingresos por actividades ordinarias solamente las entradas brutas de beneficios económicos recibidos y por recibir por parte de la entidad, actuando por cuenta propia.
 
-        .bg-color-3.p-4.tarjeta
+        .bg-color-2.p-4.tarjeta
           p(data-aos="fade-left").mb-0 No se incluirá en los ingresos por actividades ordinarias, los importes recibidos por cuenta de terceras ni el impuesto sobre las ventas.
 
 
@@ -136,7 +136,7 @@
               .col-lg-7
                 p(data-aos="fade-left") El impuesto al valor agregado, generado en la operación de venta en actividades ordinarias se medirá sobre la base del precio de venta aceptado por el cliente, en la tarifa establecida por la norma fiscal vigente.
             
-                .bg-color-2.p-4(data-aos="fade-left").mb-4
+                .bg-color-10.p-4(data-aos="fade-left").mb-4
                   p.mb-0 En cuanto a los anticipos por retenciones en la fuente sobre los impuestos a la renta, a las ventas y a industria y comercio; que aplique o aplicará el cliente de acuerdo con su condición fiscal, se medirán de forma independiente sobre las bases establecidas por la norma fiscal.
 
                 p.mb-0 A continuación, se muestra un ejercicio de reconocimiento de los ingresos por actividades ordinarias:
@@ -286,7 +286,7 @@
 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-lg-4.mb-4(data-aos="zoom-in-up")
-        .tarjeta.bg-color-2.px-4.py-4.h-100
+        .tarjeta.bg-color-3.px-4.py-4.h-100
           img.d-block.mb-3(
             src="@/assets/curso/tema3/9.svg"
             alt=""
