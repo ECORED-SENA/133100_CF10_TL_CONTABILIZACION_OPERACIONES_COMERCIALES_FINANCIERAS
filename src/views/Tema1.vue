@@ -202,19 +202,19 @@
 
         ol.lista-ol--cuadro
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta2
               span a
             | Se hace conteo físico para hallar el costo de existencia.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta2
               span b
             | Solo al cierre del ejercicio se halla el costo de venta.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta2
               span c
             | Solo hay un método de valuación "Juego de Inventarios".
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta2
               span d
             | El kárdex solo mueve unidades sin costos.
 
@@ -1203,7 +1203,7 @@
 
     .row.mb-5.justify-content-center.mb-4
       .col-lg-11
-        .bg-color-3
+        .bg-color-14
           .row.align-items-center
             .col-lg-4.d-none.d-lg-block
               figure

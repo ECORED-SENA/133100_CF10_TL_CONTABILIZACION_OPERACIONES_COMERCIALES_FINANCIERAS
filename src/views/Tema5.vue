@@ -30,7 +30,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 1
                 | Causa nómina del Auxiliar Contable así: Básico: $1.000.000, Días trabajados: 30, H.E.D.O: 15. Descuento por libranza $100.000, Arl nivel: I.
 
@@ -143,7 +143,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 2
                 | Causa honorarios de Abogado por $1.500.000, menos retefuente 10%.
 
@@ -184,7 +184,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 3
                 | Causa el impuesto de Industria y Comercio por $1.850.000, menos retenciones que le practicaron por $620.000.
 
@@ -225,7 +225,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 4
                 | Causa alquiler de equipos industriales por $2.000.000, menos retefuente 4% y reteica 1%.
 
@@ -270,7 +270,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 5
                 | Paga fletes por transportes de materiales por $1.000.000, menos retefuente 1%
 
@@ -311,7 +311,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 6
                 | Causa mantenimiento de equipos de cómputo por $500.000, menos retefuente 6% y reteica 1%.
 
@@ -356,7 +356,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 7
                 | Legaliza anticipo para peajes por $500.000, soportados en $350.000
 
@@ -396,7 +396,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 8
                 | Deprecia el primer mes por línea recta, computadores adquiridos en $5.000.000;  con un tiempo estimado de vida útil de 2 años, sin cuota de salvamento.
 
@@ -432,7 +432,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 9
                 | Reembolsa la caja menor, así: $60.000 en servicio de acueducto, $50.000 en elementos de aseo y $40.000 en papelería.
 
@@ -476,7 +476,7 @@
 
             ol.lista-ol--cuadro.mb-5
               li 
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta2
                   span 10
                 | Paga publicidad radial por $450.000
 

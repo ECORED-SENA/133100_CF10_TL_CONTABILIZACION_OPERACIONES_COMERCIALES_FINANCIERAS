@@ -343,22 +343,22 @@
                 .tarjeta.bg-color-4.p-4
                   ol.lista-ol--cuadro.lista-ol--separador.mt-lg-2
                     li 
-                      .lista-ol--cuadro__vineta
+                      .lista-ol--cuadro__vineta2
                         span 1
                       | Se clasifica la cartera vencida a más de 90 días como deudas de difícil cobro.
 
                     li 
-                      .lista-ol--cuadro__vineta
+                      .lista-ol--cuadro__vineta2
                         span 2
                       | Se deteriora la cartera de difícil cobro por el método general.
 
                     li 
-                      .lista-ol--cuadro__vineta
+                      .lista-ol--cuadro__vineta2
                         span 3
                       | Se recupera un 10 % de la cartera a más de 360 días más 5 % de interés.
 
                     li 
-                      .lista-ol--cuadro__vineta
+                      .lista-ol--cuadro__vineta2
                         span 4
                       | Se ajusta el deterioro.
 
