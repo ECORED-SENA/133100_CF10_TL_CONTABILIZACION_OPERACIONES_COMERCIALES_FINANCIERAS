@@ -145,7 +145,7 @@
               li 
                 .lista-ol--cuadro__vineta2
                   span 2
-                | Causa honorarios de Abogado por $1.500.000, menos retefuente 10%.
+                | Causa honorarios de abogado por $1.500.000, menos retefuente 10%.
 
 
             .row.mb-5.justify-content-center
@@ -514,7 +514,7 @@
     #tema5-1.titulo-segundo.color-acento-contenido
       h2 5.1 Política contable
 
-    p.mb-5 Para la incorporación de las políticas contables de los gastos la entidad debe fundamentarse en la hipótesis del devengo. De conformidad con la sección 2 de NIIF para Pymes (2009), la base contable de acumulación o devengo establece que:
+    p.mb-5 Para la incorporación de las políticas contables de los gastos, la entidad debe fundamentarse en la hipótesis del devengo. De conformidad con la sección 2 de NIIF para Pymes (2009), la base contable de acumulación o devengo establece que:
 
 
     .bg-color-4.mb-4(data-aos="fade-up")

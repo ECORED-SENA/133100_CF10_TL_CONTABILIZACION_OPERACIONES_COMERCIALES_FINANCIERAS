@@ -89,7 +89,7 @@
                   ul.lista-ul--color.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-chevron-right
-                      p.mb-0 Se requiere por una NIIF
+                      p.mb-0 Se requiere por una NIIF.
 
                 .bg-color-white.p-2.mb-2
                   ul.lista-ul--color.mb-0

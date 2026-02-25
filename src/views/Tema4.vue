@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Instrumentos Financieros - Clientes y otras cuentas por cobrar
+      h1 Instrumentos financieros - clientes y otras cuentas por cobrar
 
 
     .row.mb-5
@@ -206,7 +206,7 @@
 
 
             .bg-color-9.p-4
-              p.mb-0 Con fundamento en la sección 11 de la NIIF para Pymes (2009), referente a los instrumentos financieros, el deterioro de los activos financieros y, en particular la cartera de clientes se debe reconocer mediante la evidencia objetiva que reúnan los preparadores de información financiera a partir de la evaluación que se haga de las cuentas por cobrar.
+              p.mb-0 Con fundamento en la sección 11 de la NIIF para Pymes (2009), referente a los instrumentos financieros, el deterioro de los activos financieros y, en particular, la cartera de clientes, se debe reconocer mediante la evidencia objetiva que reúnan los preparadores de información financiera a partir de la evaluación que se haga de las cuentas por cobrar.
 
 
 
@@ -288,7 +288,7 @@
 
         .row.justify-content-center
           .col-lg-10
-            p.mb-4 #[strong Ejemplo:] la empresa establece como política contable medir el deterioro de su cartera por el método de provisión general y por tanto la presenta por vencimientos, así:
+            p.mb-4 #[strong Ejemplo:] la empresa establece como política contable medir el deterioro de su cartera por el método de provisión general y, por tanto, la presenta por vencimientos, así:
 
             .row
               .col-lg-5.d-none.d-lg-block

@@ -11,7 +11,7 @@
     .row.align-items-stretch.mb-5
       .col-lg-7.order-2.order-lg-1
         .bg-color-2.p-4.h-100
-          p.mt-xl-4 Antes de hablar del registro de compras y ventas, es importante enfocarse en el tema de los inventarios para la venta, producción o prestación de servicios, toda vez que constituyen la fuente generadora de ingresos para la empresa y por tanto requieren de un tratamiento especial.
+          p.mt-xl-4 Antes de hablar del registro de compras y ventas, es importante enfocarse en el tema de los inventarios para la venta, producción o prestación de servicios, toda vez que constituyen la fuente generadora de ingresos para la empresa y, por tanto, requieren de un tratamiento especial.
 
       .col-lg-5.order-1.order-lg-2
         figure
@@ -237,14 +237,14 @@
           li 
             .lista-ol--cuadro__vineta
               span c
-            | Se debe elegir uno entre varios métodos de valuación "Promedio ponderado, Primeras en Entrar Primeras en Salir".
+            | Se debe elegir uno entre varios métodos de valuación "promedio ponderado, primeras en entrar primeras en salir".
           li 
             .lista-ol--cuadro__vineta
               span d
             | El kárdex mueve tanto unidades como costos.
 
 
-    p.mb-4 A continuación, se presenta un ejercicio utilizando el método de valuación por Promedio Ponderado, el cual emplea la media aritmética para determinar el costo unitario, de la siguiente manera:
+    p.mb-4 A continuación, se presenta un ejercicio utilizando el método de valuación por promedio ponderado, el cual emplea la media aritmética para determinar el costo unitario, de la siguiente manera:
 
     figure
       img(src='@/assets/curso/tema1/formula1.svg', alt='Fórmula del costo unitario: Costo unitario (COS.UND) es igual al costo total (COS.TAL) dividido entre la cantidad de unidades (UND).', style="max-width: 295px").mx-auto.mb-5
@@ -302,7 +302,7 @@
 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
-          span Registro de inventario bajo el método de Promedio Ponderado.
+          span Registro de inventario bajo el método de promedio ponderado.
 
 
         .bloque-tabla-responsive

@@ -250,7 +250,7 @@ export default {
     {
       termino: 'Instrumentos financieros',
       significado:
-        'Contrato que da lugar a un activo financiero en una empresa y simultáneamente a un pasivo financiero o a un instrumento de patrimonio en otra empresa. Activos Financieros: efectivo, cartera de clientes, inversiones, entre otros. Pasivos Financieros: Proveedores, obligaciones emitidas.',
+        'Contrato que da lugar a un activo financiero en una empresa y simultáneamente a un pasivo financiero o a un instrumento de patrimonio en otra empresa. Activos Financieros: efectivo, cartera de clientes, inversiones, entre otros. Pasivos Financieros: proveedores, obligaciones emitidas.',
     },
     {
       termino: 'Inventarios para la venta',

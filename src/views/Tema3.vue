@@ -49,7 +49,7 @@
               p Una cuenta por cobrar es el derecho incondicional de una entidad a recibir una contraprestación.
 
 
-    p.mb-5 Como un elemento de los estados financieros los ingresos incluyen tanto los generados por actividades ordinarias como los de actividades extraordinarias.
+    p.mb-5 Como un elemento de los estados financieros, los ingresos incluyen tanto los generados por actividades ordinarias como los de actividades extraordinarias.
 
     .row.mb-5.justify-content-center
       .col-lg-10
